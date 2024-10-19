@@ -3,7 +3,7 @@
 ## HOW TO RUN ON VPS
 1. Clone this repo and install requirements
 ```bash
-git clone https://github.com/Semutireng22/duckchain && cd duckchain && pip install -r requirements.txt
+git clone https://github.com/0xWinNode/DUCKCHAIN-BOT && cd duckchain && pip install -r requirements.txt
 ```
 
 2. Edit token.txt with your auth token `eg : user=xxx / query_id=xxxx` [(How to get query id)](https://t.me/airdropasc/63226)
@@ -19,7 +19,7 @@ python3 bot.py
 ## HOW TO RUN ON TERMUX
 1. Clone this repo and install requirements
 ```bash
-git clone https://github.com/Semutireng22/duckchain && cd duckchain && pip install -r requirements.txt
+git clone https://github.com/0xWinNode/DUCKCHAIN-BOT && cd duckchain && pip install -r requirements.txt
 ```
 
 2. Edit token.txt with your auth token `eg : user=xxx / query_id=xxxx` [(How to get query id)](https://t.me/airdropasc/63226)
